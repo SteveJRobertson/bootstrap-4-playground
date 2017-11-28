@@ -1,2 +1,4 @@
-# bootstrap-4-playground
-A basic setup for building components using Bootstrap 4 Beta
+# Bootstrap 4 Playground
+A basic setup for building components using Bootstrap 4 Beta.
+
+Run `npm install` or `yarn install` to get started.

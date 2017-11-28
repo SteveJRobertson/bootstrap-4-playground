@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-4-playground",
+  "version": "0.0.1",
+  "description": "A basic setup for building components using Bootstrap 4 Beta",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveJRobertson/bootstrap-4-playground.git"
+  },
+  "author": "Steve Robertson <steve@sr.digital>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SteveJRobertson/bootstrap-4-playground/issues"
+  },
+  "homepage": "https://github.com/SteveJRobertson/bootstrap-4-playground#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  }
+}
